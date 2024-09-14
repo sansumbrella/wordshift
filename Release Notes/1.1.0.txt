@@ -1,0 +1,31 @@
+Hard Mode Added
+===============
+For those of you who have mastered Speed or Strategy Mode, Hard Mode combines the rules from both modes to make sure you have a challenge. Make words until you run out of either swaps or time. Words give the same bonuses to both swaps and time as they do in Speed and Strategy Mode, but you'll need to watch both resources as you play.
+
+Design
+======
+Adjusted the main menu to fit the new mode.
+Updated button design for play modes to give more glanceable information.
+Settings and leaderboards use icons instead of text, differentiating them from the game mode buttons.
+
+Achievements
+============
+High score achievements for new Hard Mode.
+Leaderboard for Hard Mode.
+Shoot the moon achievement added to all modes.
+
+Dictionary additions
+====================
+Lots of fun new words, including:
+abacost
+abactinal
+beadlet
+beaverkin
+ouroboros
+
+Bug fixes
+=========
+Scrolling text height accounts for retina displays.
+Fixed a small memory leak.
+
+Thanks for playing!

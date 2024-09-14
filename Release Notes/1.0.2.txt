@@ -1,0 +1,7 @@
+Dictionary update:
+poché for the architects out there
+pyroclasm for the crazy ones
+
+Bug fix:
+You can scroll your word list in the pause and game-end screens again.
+Sorry for breaking that with the rendering update, high-scoring folks.

@@ -1,0 +1,15 @@
+Compete against yourself:
+Pause and game end screens now show your personal high score for the current mode.
+
+Tutorial updated:
+More information about valid words and tips on scoring.
+
+Dictionary updates:
+Many, but let's not forget knaidel and kneydl
+
+Updated text spacing in pause and game end screens on iPad.
+
+Behind-the-scenes:
+Rendering update in pause/game end screen enables faster loading and the display of much longer word lists.
+Reduced background memory usage makes us a nicer neighbor.
+Offline Game Center adjustments make moving between devices more seamless.

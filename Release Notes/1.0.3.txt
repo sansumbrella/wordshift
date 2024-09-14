@@ -1,0 +1,14 @@
+New Achievement:
+Shoot the moon
+
+Dictionary updates:
+ouroboros
+
+Behind-the-scenes:
+Further reduced background memory usage when device has low memory
+
+Bug fixes:
+Scroll distance accounts for retina displays
+Fixed a small (but frequent) memory leak
+
+Thanks for playing!

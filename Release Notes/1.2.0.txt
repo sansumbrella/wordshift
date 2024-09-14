@@ -1,0 +1,4 @@
+Improved performance of word list at game end (noticeable only for extremely high scoring games)
+TODO:
+Game pauses when leaving the app.
+Closing the app completely no longer erases current game.

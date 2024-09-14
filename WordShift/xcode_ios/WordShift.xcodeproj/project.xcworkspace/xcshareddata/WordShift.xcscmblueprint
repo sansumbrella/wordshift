@@ -1,0 +1,44 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "DFCD9BA87F632F71A09BF93A6AF9482B93439AC3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8E50B23D-652A-42C2-8AA6-2A391BCE3C88" : 0,
+    "DFCD9BA87F632F71A09BF93A6AF9482B93439AC3" : 0,
+    "565A9487-0C9F-430B-8CF8-307926C632AA" : 0,
+    "B18A643649FAD2CBA99A520E6EA5DC3694988EEF" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "39D83BA8-B506-4F3C-8253-884F0E3E3AA6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8E50B23D-652A-42C2-8AA6-2A391BCE3C88" : "WordGame",
+    "DFCD9BA87F632F71A09BF93A6AF9482B93439AC3" : "2013%20Word%20Shift",
+    "565A9487-0C9F-430B-8CF8-307926C632AA" : "Code\/Cinder\/blocks\/Pockets",
+    "B18A643649FAD2CBA99A520E6EA5DC3694988EEF" : "Code\/cinder\/blocks\/Pockets"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "WordShift",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "WordShift\/xcode_ios\/WordShift.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "ssh:\/\/watanabe.dreamhost.com\/home\/sansumbrella\/git.sansumbrella.com\/2012\/Pockets.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "565A9487-0C9F-430B-8CF8-307926C632AA"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "ssh:\/\/watanabe.dreamhost.com\/home\/sansumbrella\/git.sansumbrella.com\/2012\/Cascade.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8E50B23D-652A-42C2-8AA6-2A391BCE3C88"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "ssh:\/\/watanabe.dreamhost.com\/home\/sansumbrella\/git.sansumbrella.com\/2012\/Pockets.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B18A643649FAD2CBA99A520E6EA5DC3694988EEF"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "ssh:\/\/watanabe.dreamhost.com\/home\/sansumbrella\/git.sansumbrella.com\/2012\/Cascade.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DFCD9BA87F632F71A09BF93A6AF9482B93439AC3"
+    }
+  ]
+}

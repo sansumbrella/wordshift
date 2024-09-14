@@ -1,0 +1,17 @@
+This is the 1.0 build that I just submitted to the App Store for approval.
+
+Thanks again for trying out the game; it has come a long way from the rough version I first sent out to all of you. The next step for me is to put together the website and marketing materials in the hope that it will reach a wider audience.
+
+Best,
+David
+
+Changes:
+New, spare tutorial
+Graphics updates
+New Game Center achievements
+Achievements and high scores earned offline are stored and submitted later
+Tuned scoring and time/swap rewards
+Multiplayer House Rules mode is solid
+Sounds
+A few new words in the dictionary
+iOS 6.0+ only due to Game Center view

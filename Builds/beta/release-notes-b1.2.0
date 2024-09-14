@@ -1,0 +1,26 @@
+tl;dr You're awesome and should try out the latest build of Word Shift.
+
+Thank you all for your feedback on the first build of Word Shift. This next round has a lot of changes based on your thoughts.
+
+The biggest change is to the core gameplay; instead of having a fixed timer or amount of moves, you now get a little bit of bonus time or moves whenever you create a word. I think of the new single player modes like juggling acts; you play to keep the game going, always knowing that you're just about to run out of time or moves.
+
+Additionally, interface details have been tightened up, including:
+- an indication of when words will submit
+- slightly faster swapping
+- altered button behavior (to avoid accidental presses)
+- an indication of which tiles will swap with which others
+- multiplayer menu that hopefully makes sense (earlier one was awful)
+- swap-limited turns in multiplayer ("moves" before were too vague and powerful)
+- indication of swaps remaining per turn in multiplayer
+- pause and game end screen reorganization; words grouped by score rather than order
+- new color themes (check in settings)
+- consistent margins and left-aligned text
+- says the name of the game in the main menu
+
+One note is that the buttons are now sprites, so I can quickly adjust individual details (though across the board changes are a tiny bit more tedious). I set up a workflow with Illustrator that I'm pretty happy with an will share once the app is out in the wild.
+
+I would love to hear any and all feedback you might have at this point. I am particularly insterested in how you feel about the level of challenge and ability to keep your game alive. I feel like speed mode at least is pretty well tuned, but I tend to get obsessive in strategy mode and it takes me forever to finish.
+
+The current build is kind of a release candidate, since I think it's generally ready for app store submission. I am waiting until mid next-week to do the actual submission so I can squeeze in a final few features and tune things based on your feedback. If you don't have time to give feedback until after then, I would be happy to include things in an application update.
+
+Thanks again for taking the time to review my work. It has been enormously helpful both practically and psychologically.
