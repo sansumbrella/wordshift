@@ -19,5 +19,4 @@ https://www.youtube.com/watch?v=Whiqabovbj0
 Or the quick promo trailer:
 https://www.youtube.com/shorts/RYOjXFIRNzo
 
-![Early screenshot of the tutorial page](./screengrabs/IMG_0053.PNG)
-![Early screenshot of gameplay](./screengrabs/IMG_0074.PNG)
+![Gameplay Screenshots and Icon](./screengrabs/Screenshots.png)
